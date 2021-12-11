@@ -7,5 +7,7 @@ In this project, a dataset consisting of calls to 311 are analyzed. For this pro
 - Your group name and section
 Group 15 - section 2
 - A list containing the UNI for each member on the team
+
 Felicia Wang: 'fw2377'
+
 Usman Hamid: 'mh4197'
