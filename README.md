@@ -21,6 +21,6 @@ Group project for Call Analysis
 
 - A list containing the UNI for each member on the team
 
-    [Felicia Wang: 'fw2377',
+    UNI = ['fw2377', 'mh4197']
 
-    Usman Hamid: 'mh4197']
+    NAME = ['Felicia Wang', 'Usman Hamid']
