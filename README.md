@@ -7,7 +7,7 @@ Group project for Call Analysis
 
         - Top10:
     
-            We analyzed the top 10 causes of calls to 311 in our zip code. We found 'Noise - Residential' to be the top complaint type in our zip code.
+            In this notebook, we analyzed the top 10 causes of calls to 311 in our zip code. We found 'Noise - Residential' to be the top complaint type in our zip code.
 
         - Parking:
 
@@ -21,6 +21,6 @@ Group project for Call Analysis
 
 - A list containing the UNI for each member on the team
 
-    [Felicia Wang: 'fw2377'
+    [Felicia Wang: 'fw2377',
 
     Usman Hamid: 'mh4197']
